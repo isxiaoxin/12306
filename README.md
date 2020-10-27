@@ -54,13 +54,13 @@ node start.js
 
 执行之后是这样的 终端也能看到此次查询的信息 this.logger 为true时会输出 可自行更改
 
-![image-20200903101729933](https://s1.ax1x.com/2020/09/03/wCKgln.png)
+![http://xiaoxina.cc](https://s1.ax1x.com/2020/09/03/wCKgln.png)
 
 默认每隔1分钟查询余票，有需要可自行调整 **start.js** 里的 this.interval
 
 检测到余票后会收到这样一个邮件，可自行调整邮件模板或样式
 
-![小鑫](https://s1.ax1x.com/2020/09/03/wCE3gf.png)
+![http://xiaoxina.cc](https://s1.ax1x.com/2020/09/03/wCE3gf.png)
 
 
 
